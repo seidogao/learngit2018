@@ -4,4 +4,6 @@ For rest test
 Git tracks changes of files.
 Creating a new branch is quick.
 Creating a new branch is quick AND simple
-add branch For commit
+add branch For commit設計で確認すること	評価で確認すること
+for diff
+for add
