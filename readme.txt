@@ -7,3 +7,4 @@ Creating a new branch is quick AND simple
 add branch For commit設計で確認すること	評価で確認すること
 for diff
 for add
+for pc-1 add
